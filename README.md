@@ -16,6 +16,7 @@ The resume includes the following sections:
 
 ## Demo link
 https://single-page-resume-phi.vercel.app/
+<br>
 this website is hosted in versel
 
 Use the following command to clone the project:
