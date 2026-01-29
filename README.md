@@ -14,6 +14,10 @@ The resume includes the following sections:
 - Education Details
 - Contact Information## Clone the Repository
 
+## Demo link
+https://single-page-resume-phi.vercel.app/
+this website is hosted in versel
+
 Use the following command to clone the project:
 
 ```bash
